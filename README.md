@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dirun09)](https://solved.ac/dirun09/)
 
-![Spring Boot](https://shields.io)
+<img src="https://shields.io" />
 
 
 <!--![Spring Boot](https://img.shields.io/badge/Spring%20Boot-#6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white)-->
