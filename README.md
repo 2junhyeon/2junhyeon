@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dirun09)](https://solved.ac/dirun09/)
 
-<img src="https://shields.io" />
-
+## Git Animal
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=2junhyeon&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/2junhyeon"
@@ -11,6 +9,16 @@
   height="300"
 />
 </a>
+
+
+## Stat
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dirun09)](https://solved.ac/dirun09/)
+
+
+
+<!-- <img src="https://shields.io" /> -->
+
+
 
 <!--![Spring Boot](https://img.shields.io/badge/Spring%20Boot-#6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white)-->
 <!--
