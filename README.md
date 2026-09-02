@@ -4,6 +4,13 @@
 
 <img src="https://shields.io" />
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=2junhyeon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/2junhyeon"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--![Spring Boot](https://img.shields.io/badge/Spring%20Boot-#6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white)-->
 <!--
