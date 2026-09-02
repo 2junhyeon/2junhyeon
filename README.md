@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Back-end Developer
 
 ## Git Animal
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=2junhyeon&utm_content=farm">
